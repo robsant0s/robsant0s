@@ -1,4 +1,4 @@
-## Olá! Boas-vindas, visitante.
+## Hi! Welcome, guest.
 
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning Cybersecurity and Network fundamentals
