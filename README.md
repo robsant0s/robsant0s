@@ -15,6 +15,4 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsant0s&layout=compact&langs_count=16&theme=dark" />
 </div>
 
-<div>
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2982874">
-</div>
+<iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2982874"></script></body></html>'></iframe>
