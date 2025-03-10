@@ -11,10 +11,10 @@
 
 <div>
   <a href="https://beacons.ai/robsant0s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsant0s&show_icons=true&theme=dark&include_all_comits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsant0s&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=robsant0s&show_icons=true&theme=dark&include_all_comits=true&count_private=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsant0s&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 <div>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2982874" style='border:none;'></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2982874">
 </div>
